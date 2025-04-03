@@ -4,7 +4,7 @@
 Минималистичный виджет для отслеживания IP-адреса, статуса VPN и доступности кастомных сервисов.  
 Идеален для разработчиков, геймеров и всех, кто работает с сетевыми подключениями!
 
-![image](https://github.com/user-attachments/assets/854f9e42-2827-40a7-bbd2-38b360c40c45)
+![1](https://github.com/user-attachments/assets/08cc2c58-3ad7-4f1d-b99c-0a3326c5f926)
 
 ## 🔥 Особенности
 
@@ -50,15 +50,15 @@ URL для проверки доступности:
   
 ## 📸 Скриншоты
 ### Отслеживаемый сайт недоступен:
-![image](https://github.com/user-attachments/assets/661582bb-292c-4d62-9fab-f0c803abd62e)
+![2](https://github.com/user-attachments/assets/e52d08c6-9f79-4eaa-a198-7c07b8f9d531)
 ### VPN включён:
-![image](https://github.com/user-attachments/assets/0dfdb708-8f88-4775-9a97-214c01347c98)
+![3](https://github.com/user-attachments/assets/4a11564d-908c-4ecc-a4f7-6d2fef9be1c7)
 ### Окно настроек:
 ![image](https://github.com/user-attachments/assets/d5dac4b9-ae36-4ea4-9ed4-2828d270ed6f)
 ### Меню в трее:
 ![image](https://github.com/user-attachments/assets/575f3992-f406-49b6-9b1e-25c382299153)
 ### Обходит список сервисов:
-![image](https://github.com/user-attachments/assets/0655b7f1-dbb0-4197-819d-71a865f381fe)
+![4](https://github.com/user-attachments/assets/a2ebb713-bbfc-4f7f-9b07-e3fc387f9a83)
 ### Нет подключения:
 ![image](https://github.com/user-attachments/assets/d25a2cfc-034a-4d41-847d-9ace0aa2c495)
 
