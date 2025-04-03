@@ -54,7 +54,7 @@ URL для проверки доступности:
 ### VPN включён:
 ![3](https://github.com/user-attachments/assets/4a11564d-908c-4ecc-a4f7-6d2fef9be1c7)
 ### Окно настроек:
-![image](https://github.com/user-attachments/assets/44b77c56-f3de-41ed-a9ad-a5767c06d7dc)
+![image](https://github.com/user-attachments/assets/f127393e-e1f8-422b-bd4d-a6594175bce9)
 ### Меню в трее:
 ![image](https://github.com/user-attachments/assets/575f3992-f406-49b6-9b1e-25c382299153)
 ### Обходит список сервисов:
